@@ -1,0 +1,47 @@
+METROPOLITAN DIAGNOSTIC HEALTHCARE LABORATORY
+ACCREDITED CLINICAL PATHOLOGY DIVISION
+Demo Report — Not a real patient record. For Educational & Demonstration Purposes Only.
+
+PATIENT INFORMATION:
+Name: Demo User
+Age: 21 Years | Sex: Male | Ref By: Dr. A. Sharma, MD
+Sample Collected: 03/Oct/2026 08:30 AM | Sample Type: Serum & Whole Blood (EDTA)
+
+========================================================================================
+TEST NAME                              RESULT        UNIT         REFERENCE RANGE
+========================================================================================
+COMPLETE BLOOD COUNT (CBC)
+Hemoglobin                             13.2          g/dL         13.0 - 17.0
+Red Blood Cell Count (RBC)             4.80          million/µL   4.50 - 5.90
+White Blood Cell Count (WBC)           7200          /µL          4000 - 11000
+Platelet Count                         250000        /µL          150000 - 450000
+Hematocrit (PCV)                       42.5          %            40.0 - 50.0
+
+METABOLIC & GLYCEMIC PROFILE
+Fasting Blood Glucose                  108           mg/dL        70 - 100
+Hemoglobin A1c (HbA1c)                 5.4           %            4.0 - 5.6
+
+LIPID PROFILE
+Total Cholesterol                      195           mg/dL        125 - 200
+HDL Cholesterol                        48            mg/dL        40 - 60
+LDL Cholesterol                        120           mg/dL        0 - 100
+Triglycerides                          135           mg/dL        0 - 150
+
+RENAL / KIDNEY FUNCTION
+Serum Creatinine                       0.90          mg/dL        0.70 - 1.30
+Blood Urea Nitrogen                    16.0          mg/dL        7.0 - 20.0
+
+LIVER ENZYMES
+ALT (SGPT)                             28            U/L          10 - 50
+AST (SGOT)                             24            U/L          10 - 40
+
+ENDOCRINE & VITAMINS
+Thyroid Stimulating Hormone (TSH)      2.10          µIU/mL       0.40 - 4.00
+Vitamin B12                            340           pg/mL        200 - 900
+Vitamin D (25-OH)                      22.0          ng/mL        30.0 - 100.0
+
+VITAL SIGNS (CLINICAL TRIAGE)
+Blood Pressure                         118/78        mmHg         90-120 / 60-80
+Heart Rate                             72            bpm          60 - 100
+========================================================================================
+Note: End of Report. Verified by Dr. K. Patel, Pathologist.
